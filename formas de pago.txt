@@ -1,0 +1,17 @@
+Referencia Bancaria
+Efectivo
+Pago en línea [Paypal, Clip, Mercado Pago]
+
+[Catalogo para ver el medio de pago]
+
+---------------------------------------------
+Plantillas [Bulma]
+
+https://bulmatemplates.github.io/bulma-templates/
+https://bulmathemes.com/
+https://bulma.style/unified/dist/index.html
+
+---------------------------------------------
+**Generar Ticket de compra
+**Historial de ventas (del lado del admin)
+**Historial de compras (del lado del cliente)
